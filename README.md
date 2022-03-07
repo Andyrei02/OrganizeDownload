@@ -1,4 +1,4 @@
-# Python Cash_book
+# Python Download Organizer
 Organize download folder 
 
 ### Instructions to run
